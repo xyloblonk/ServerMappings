@@ -1,0 +1,35 @@
+{
+    "id": "hoppermc",
+    "name": "HopperMC",
+    "website": "https://hoppermc.fun",
+    "description": "Spawn as a baby to a random player!",
+    "addresses": [
+      "1hour1life.net"
+    ],
+    "primaryAddress": "play.hoppermc.fun",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#D93E3E",
+    "minecraftVersions": [
+      "1.21.3"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "crossplay": true,
+    "primaryRegion": "US",
+    "regions": [
+        "US"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+      "Survival",
+      "PvP",
+      "Open World",
+      "Minigames",
+      "Adventure"
+    ],
+    "socials": {
+      "discord": "https://discord.gg/m98Fj6uWeD"
+    }
+}
